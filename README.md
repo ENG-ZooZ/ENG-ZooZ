@@ -41,17 +41,34 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,django,git,github,figma,vscode,vercel,postman" alt="tech stack"/>
 </p>
 
+---
+
 ### ⚙️ Core Stack
+<p align="center">
 Next.js · React · TypeScript · TailwindCSS · Node.js · Express
+</p>
+
+---
 
 ### 🗄️ Backend & Databases
+<p align="center">
 MongoDB · Django · Python
+</p>
 
-### 🎨 Design & Tools
+---
+
+### 🎨 Design & Development Tools
+<p align="center">
 Figma · Postman · Git · GitHub · Vercel · VS Code
+</p>
+
+---
 
 ### 🚀 Focus Areas
-Full Stack Development · Scalable Web Apps · UI/UX Engineering · API Design
+<p align="center">
+Full Stack Development · Scalable Web Applications · UI/UX Engineering · REST APIs · Performance Optimization
+</p>
+
 ---
 
 ## 🔥 Featured Projects
