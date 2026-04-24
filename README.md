@@ -73,18 +73,8 @@ Full Stack Development · Scalable Web Applications · UI/UX Engineering · REST
 
 ## 🔥 Featured Projects
 
-### 1) **Saadi Collection (E-Commerce Platform)**
-- 🌐 Live Demo: https://godzilla-store.infinityfree.me  
-- 👨‍💻 Role: Frontend Developer | WooCommerce API Integration  
-- 🚀 Overview: A modern e-commerce web application focused on performance, usability, and smooth shopping experience  
-- ✨ Key Features:
-  - Fully responsive product grid system  
-  - Optimized lazy-loading for product images  
-  - Smooth GSAP animations for product cards  
-  - Interactive shopping cart with micro-interactions  
-  - Improved UX for faster browsing and checkout flow
 
-### 2) **Personal Portfolio**
+### 1) **Personal Portfolio**
 - 🌐 Live Demo: https://eng-zooz.vercel.app
 - 👨‍💻 Role: Full Stack Developer & UI/UX Designer  
 - 🚀 Description: A production-ready personal portfolio built to highlight my skills, projects, and development journey  
@@ -94,6 +84,17 @@ Full Stack Development · Scalable Web Applications · UI/UX Engineering · REST
   - Modern UI animations & transitions
   - Optimized images & performance enhancements
   - Code splitting for faster loading speed
+ 
+### 2) **Saadi Collection (E-Commerce Platform)**
+- 🌐 Live Demo: https://godzilla-store.infinityfree.me  
+- 👨‍💻 Role: Frontend Developer | WooCommerce API Integration  
+- 🚀 Overview: A modern e-commerce web application focused on performance, usability, and smooth shopping experience  
+- ✨ Key Features:
+  - Fully responsive product grid system  
+  - Optimized lazy-loading for product images  
+  - Smooth GSAP animations for product cards  
+  - Interactive shopping cart with micro-interactions  
+  - Improved UX for faster browsing and checkout flow
 
 ### 3) **Interactive UI Experiments**
 - A collection of advanced UI micro-interactions and GSAP-powered components  
