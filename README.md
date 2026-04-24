@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="hi"/>
   Hey — I'm <strong>Zyad Mohamed Sobhy</strong>
   <br/>
-  <small>Full Stack Developer • UI/UX Enthusiast</small>
+  <small>Full Stack Software Engineer • UI/UX Enthusiast</small>
 </h1>
 
 
