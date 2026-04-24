@@ -15,13 +15,13 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=16F2B3&center=true&vCenter=true&width=900&lines=I+build+beautiful+interfaces+%F0%9F%92%BB;I+turn+ideas+into+interactive+experiences%F0%9F%94%A5" alt="typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3000&pause=1000&color=16F2B3&center=true&vCenter=true&width=900&lines=Full+Stack+Software+Engineer+💻;Building+scalable+and+high-performance+web+applications+🚀;Crafting+modern+UI+%2F+UX+experiences+that+users+love+🔥" alt="typing"/>
 </p>
 
 <p align="center"> 
   <a href="https://godzilla-store.infinityfree.me" target="_blank"><img alt="project" src="https://img.shields.io/badge/Live%20Project-Saadi%20Collection-13D3B7?style=for-the-badge&logo=woocommerce"/></a>
   <a href="https://eng-zooz.vercel.app" target="_blank"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-Live-FF6B6B?style=for-the-badge&logo=vercel"/></a>
-  <a href="mailto:zizosobhy306@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-umaarahed03%4gmail.com-0EA5A4?style=for-the-badge&logo=gmail"/></a>
+    <a href="mailto:Zizosobhy306@gmail.com"><img alt="email" src="https://img.shields.io/badge/Email-zizosobhy306@gmail.com-0EA5A4?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ## 🔥 Featured Projects
 
 ### 1) **Saadi Collection (E-Commerce Platform)**
-- 🌐 Live Demo: [https://godzilla-store.infinityfree.me]  
+- 🌐 Live Demo: https://godzilla-store.infinityfree.me  
 - 👨‍💻 Role: Frontend Developer | WooCommerce API Integration  
 - 🚀 Overview: A modern e-commerce web application focused on performance, usability, and smooth shopping experience  
 - ✨ Key Features:
@@ -60,7 +60,7 @@
   - Improved UX for faster browsing and checkout flow
 
 ### 2) **Personal Portfolio**
-- 🌐 Live Demo: [https://eng-zooz.vercel.app]
+- 🌐 Live Demo: https://eng-zooz.vercel.app
 - 👨‍💻 Role: Full Stack Developer & UI/UX Designer  
 - 🚀 Description: A production-ready personal portfolio built to highlight my skills, projects, and development journey  
 - ✨ Key Features:
