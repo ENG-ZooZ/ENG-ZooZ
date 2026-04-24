@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" alt="hi"/>
-  Hey — I'm <strong>Zyad Mohamed</strong>
+  Hey — I'm <strong>Zyad Mohamed Sobhy</strong>
   <br/>
   <small>Full Stack Developer • UI/UX Enthusiast</small>
 </h1>
