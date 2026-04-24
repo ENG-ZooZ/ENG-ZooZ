@@ -18,6 +18,19 @@
 
 ---
 
+## 📊 GitHub Authority Signals
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ENG-ZooZ&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ENG-ZooZ&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ENG-ZooZ&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
 <p align="center"> 
   <a href="https://godzilla-store.infinityfree.me" target="_blank">
     <img alt="project" src="https://img.shields.io/badge/Live%20Project-Saadi%20Collection-13D3B7?style=for-the-badge&logo=woocommerce"/>
@@ -126,6 +139,10 @@ Full Stack Development · Scalable Systems · UI/UX Engineering · Performance O
 <p align="center">
   <a href="mailto:zizosobhy306@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+
+  <a href="https://wa.me/201033748811">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40"/>
   </a>
 
   <a href="https://www.linkedin.com/in/zyad-mohamed-sobhy-7ba8b8337" target="_blank">
