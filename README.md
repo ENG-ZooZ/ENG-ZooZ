@@ -141,10 +141,6 @@ Full Stack Development · Scalable Systems · UI/UX Engineering · Performance O
     <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
   </a>
 
-  <a href="https://wa.me/201033748811">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/zyad-mohamed-sobhy-7ba8b8337" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
