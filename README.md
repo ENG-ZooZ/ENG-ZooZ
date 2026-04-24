@@ -117,9 +117,21 @@ Full Stack Development · Scalable Web Applications · UI/UX Engineering · REST
 ## 📬 Contact & Socials
 
 <p align="center">
-  <a href="mailto:zizosobhy306@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="mail"/></a>
-  <a href="https://www.linkedin.com/in/zyad-mohamed-sobhy-7ba8b8337" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="linkedin"/></a>
-  <a href="https://github.com/ENG-ZooZ" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" alt="github"/></a>
+  <a href="mailto:zizosobhy306@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="mail"/>
+  </a>
+
+  <a href="https://wa.me/201033748811" target="_blank">
+    <img src="https://skillicons.dev/icons?i=whatsapp" width="40" alt="whatsapp"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/zyad-mohamed-sobhy-7ba8b8337" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="linkedin"/>
+  </a>
+
+  <a href="https://github.com/ENG-ZooZ" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" alt="github"/>
+  </a>
 </p>
 
 ---
